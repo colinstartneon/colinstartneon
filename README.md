@@ -1,10 +1,10 @@
-## I am Colin
+### I am Colin
 
-### Rust Maximalist
+1. Rust Maximalist
 
-### Friend to the Stork
+2. Friend to the Stork
 
-### Club Penguin Player 067
+3. Club Penguin Player 067
 
 
 
