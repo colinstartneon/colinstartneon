@@ -1,4 +1,4 @@
-## I am Colin
+## i am Colin
 
 ### Rust Maximalist
 
