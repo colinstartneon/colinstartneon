@@ -1,4 +1,13 @@
-### Hi there 👋
+# I am Colin
+
+## Rust Maximalist
+
+## Friend to the Stork
+
+## Club Penguin Player 067
+
+
+
 
 <!--
 **colinstartneon/colinstartneon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
