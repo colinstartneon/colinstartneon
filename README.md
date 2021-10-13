@@ -6,6 +6,10 @@
 
 ### Club Penguin Player 067
 
+### Lover of Matcha
+
+### Former Pokemon Trading Card State Champion ( this one is real )
+
 `Currently Building Web 5`
 
 
