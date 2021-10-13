@@ -8,7 +8,7 @@
 
 ### Lover of Matcha
 
-### Former Pokemon TCG State Champ ( this one is real )
+### Former Pokemon TCG State Champ 
 
 `Currently Building Web 5`
 
