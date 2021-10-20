@@ -12,7 +12,7 @@
 
 ### Nightcore Fanatic
 
-### Axie Infinity Ether Godness
+### Axie Infinity Ether Godess
 
 `Currently Building Web 5`
 
