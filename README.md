@@ -10,6 +10,10 @@
 
 ### Pokemon TCG State Champ 
 
+### Nightcore Fanatic
+
+### Axie Infinity Ether Godness
+
 `Currently Building Web 5`
 
 
