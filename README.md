@@ -8,11 +8,7 @@
 
 ### Lover of Matcha
 
-### Pokemon TCG State Champ 
-
 ### Nightcore Fanatic
-
-### Axie Infinity Ether Godess
 
 `Currently Building Web 5`
 
