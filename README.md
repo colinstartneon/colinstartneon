@@ -6,9 +6,11 @@
 
 ### Club Penguin Player 067
 
+### Nightcore Fanatic
+
 ### Lover of Matcha
 
-### Nightcore Fanatic
+### Axie Infinity Developer
 
 `Currently Building Web 5`
 
