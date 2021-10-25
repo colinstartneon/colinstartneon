@@ -10,7 +10,7 @@
 
 ### Lover of Matcha
 
-### Axie Infinity Developer
+### Axie Infinity Evangelist
 
 `Currently Building Web 5`
 
