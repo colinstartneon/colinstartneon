@@ -1,6 +1,6 @@
 ## i am Colin
 
-### Rust Maximalist
+### Solana Maximalist
 
 ### Friend to the Stork
 
